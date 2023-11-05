@@ -17,3 +17,8 @@ Rose quartz: #B2A3B5
 ## Specific Changes Made 
 I changed the background colors to the three project descriptions. 
 Specifically #f477a3, #81415b, and #c4487d. 
+
+## TerpConnect Link
+https://terpconnect.umd.edu/~atrakic1/cmsc389T-web-template/ 
+
+## Github pages link
