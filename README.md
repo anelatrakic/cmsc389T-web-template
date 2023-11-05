@@ -22,3 +22,4 @@ Specifically #f477a3, #81415b, and #c4487d.
 https://terpconnect.umd.edu/~atrakic1/cmsc389T-web-template/ 
 
 ## Github pages link
+https://anelatrakic.github.io/cmsc389T-web-template/
